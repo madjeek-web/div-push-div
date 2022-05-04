@@ -55,7 +55,6 @@ animation: up-nav-2 7s;
 animation-fill-mode: forwards;
 }
 
-
 @keyframes up-nav-2 {
 from { top: -550px; }
 to { top: 70px; }
