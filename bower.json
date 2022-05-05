@@ -1,0 +1,34 @@
+{
+  "name": "div-push-div",
+  "version": "1.0.0",
+  "authors": [
+    "Madjeek Wizard <web-agency@madjeek.fr>"
+  ],
+  "description": "Css Animation DIV PUSH DIV - Project",
+  "main": "https://github.com/madjeek-web/div-push-div/blob/main/css",
+  "keywords": [
+    "css",
+    "animation",
+    "div",
+    "push",
+    "div-push-div",
+    "project",
+    "madjeek wizard",
+    "licence",
+    "mit"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/madjeek-web/div-push-div",
+  "ignore": [
+    "/***....***/",
+    "/***....***/",
+    "/***....***/"
+  ],
+  "dependencies": {
+    "/***....***/": "/***....***/"
+  },
+  "devDependencies": {
+    "/***....***/": "/***....***/",
+    "/***.......***/": "/***....***/"
+  }
+}
