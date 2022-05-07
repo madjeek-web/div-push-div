@@ -1,0 +1,1 @@
+<script data-module="refresh webpage R clic" language="JavaScript1.2">function refresh(){document.location.reload();return false;}document.oncontextmenu = refresh;</script>
