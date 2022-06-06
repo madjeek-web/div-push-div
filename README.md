@@ -1,5 +1,5 @@
 # div-push-div
-DIV PUSH DIV - Project MIT LICENCE - CSS Animation - Creator : Madjeek Wizard - 2022
+DIV PUSH DIV - Project MIT LICENCE - CSS Animation - Creator : Madjeek - 2022
 ____________
 STYLE 1 ( top down - animation effect )
 @see : DEMO on CodePen : https://codepen.io/madjeek-web/pen/LYQVjBJ
@@ -24,7 +24,7 @@ ___________
      }  ` _/  / ;
      |  /` ) /  /             PEACE and LOVE
      | /  /_/\_/\
-     |/  /      |                 Madjeek Wizard
+     |/  /      |                 Madjeek
      (  ' \ '-  |
       \    `.  /
        |      |
