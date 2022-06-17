@@ -49,6 +49,6 @@ ___________
 /* ===================================================*/
 
 //OTHER
-//src photo creator : Karl Solano / @see : https://www.pexels.com/fr-fr/@karlsolano/
+//src photo + video - creator : Karl Solano / @see : https://www.pexels.com/fr-fr/@karlsolano/
 
 //🍺🍺🍺 I think you ought to buy him a beer - https://www.paypal.com/donate/?token=l5aPOGtkKr5np87RxRupiGGX3My9FczVjrL8ea-7CYFLjz1EXndLFBUFInyojRxL9cayQidf4sqwj3yY&locale.x=US 🍺🍺🍺
