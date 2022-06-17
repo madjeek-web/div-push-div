@@ -3,7 +3,7 @@
 ![cats](https://user-images.githubusercontent.com/83957788/174211445-a7bb6938-921f-4d87-85b2-61e45313dc16.jpg)
 
 
-DIV PUSH DIV - Project MIT LICENCE - CSS Animation - Creator : Madjeek - 2022
+DIV PUSH DIV - Project MIT LICENCE - CSS Animation - Creator : Madjeek - 2022 - www.madjeek.fr
 
 ![madjeek-cover-div-push-div](https://images.pexels.com/photos/2780762/pexels-photo-2780762.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 ____________
