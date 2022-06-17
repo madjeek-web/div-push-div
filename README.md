@@ -9,6 +9,13 @@ ____________
 STYLE 1 ( top down - animation effect )
 @see : DEMO Full Page View : https://codepen.io/madjeek-web/full/LYQVjBJ
 ____________
+
+
+
+https://user-images.githubusercontent.com/83957788/174208260-c176606e-0fef-4b83-aa52-00c6c9541b0d.mp4
+
+
+
 DIV PUSH DIV - from bottom to top - MIT LICENCE - DEMO WEBPAGE + Responsive
 STYLE 2 ( from bottom to top - animation effect )
 @see : DEMO on CodePen : https://codepen.io/madjeek-web/pen/xxYVxpo
@@ -36,3 +43,8 @@ ___________
 	
 	
 /* ===================================================*/
+
+//OTHER
+//src photo creator : Karl Solano / @see : https://www.pexels.com/fr-fr/@karlsolano/
+
+//🍺🍺🍺 I think you ought to buy him a beer - https://www.paypal.com/donate/?token=l5aPOGtkKr5np87RxRupiGGX3My9FczVjrL8ea-7CYFLjz1EXndLFBUFInyojRxL9cayQidf4sqwj3yY&locale.x=US 🍺🍺🍺
