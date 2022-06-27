@@ -40,6 +40,3 @@ ___________
 	
 	
 /* ===================================================*/
-
-☕☕ BUY ME A COFFEE ☕
-https://www.buymeacoffee.com/madjeek
