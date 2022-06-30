@@ -1,7 +1,6 @@
 # div-push-div
 
-DIV PUSH DIV - Project MIT LICENCE - CSS Animation - Creator : Madjeek - 2022 - www.madjeek.fr
-
+DIV PUSH DIV - Project MIT LICENCE - CSS Animation - Creator : Madjeek - 2022
 ____________
 STYLE 1 ( top down - animation effect )
 @see : DEMO on CodePen : https://codepen.io/madjeek-web/pen/LYQVjBJ
