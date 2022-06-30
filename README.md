@@ -1,8 +1,5 @@
 # div-push-div
 
-![cats](https://user-images.githubusercontent.com/83957788/174211445-a7bb6938-921f-4d87-85b2-61e45313dc16.jpg)
-
-
 DIV PUSH DIV - Project MIT LICENCE - CSS Animation - Creator : Madjeek - 2022 - www.madjeek.fr
 
 ____________
@@ -20,23 +17,3 @@ STYLE 2 ( from bottom to top - animation effect )
 ___________
 
 ![madjeek-1200px-og](https://user-images.githubusercontent.com/83957788/174204965-cd246cba-6142-49c4-b722-eee34685e753.jpg)
-
-/* ===================================================*
-    
-     ."".    ."",       
-     |  |   /  /
-     |  |  /  /
-     |  | /  /
-     |  |/  ;-._ 
-     }  ` _/  / ;
-     |  /` ) /  /             PEACE and LOVE
-     | /  /_/\_/\
-     |/  /      |                 Madjeek
-     (  ' \ '-  |
-      \    `.  /
-       |      |
-       |      |
-
-	
-	
-/* ===================================================*/
